@@ -1,0 +1,13 @@
+Date: Sat, 27 Jun 2020 18:32:40 UTC
+MD5Sum:
+ 6b1ea8c50e86b366d85bf31b52384e39               36 Release
+ 22edc78b4c9631c272ffc5b77b2c57a2              448 dists/xenial/main/binary-amd64/Packages
+SHA1:
+ 723032d5a2e75e934fb45645eef8b1e596312687               36 Release
+ 4a8bccc1cc159752ae2788c23dfdcff1cd3b964a              448 dists/xenial/main/binary-amd64/Packages
+SHA256:
+ 50e210d0b6aebae2f4c8c80ce65f99ff08d1c78ece2de4902e19ac66c5c3080a               36 Release
+ d05027d4e616c5bfa50500664d45cee4de1e906cae4f3baef32e1ecaf2934fa1              448 dists/xenial/main/binary-amd64/Packages
+SHA512:
+ a33b5ab4bf3be4db6ca818b69cdc5c48687cca09707c0f50d9b53a2502fe80ea37fe951c51b0255a4d6002090b44df93e6ae4ded0ad359f76eaf42484d76ee1c               36 Release
+ e85e889d39fcc8f26622fc86e36dd101e5d7f11e2a7e02edde3bd12f9f64978c5355b8490baa41995573d5ad8fd297b11aa1b198d1da91f4abfb354ba0a3b742              448 dists/xenial/main/binary-amd64/Packages
